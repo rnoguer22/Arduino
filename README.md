@@ -28,5 +28,6 @@ sudo arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno .
 # To see the serial output if provided by the program
 sudo arduino-cli monitor /dev/ttyACM0
 
----
+```
 
+---
